@@ -1,0 +1,19 @@
+.col-lg-4,
+.col-lg-6,
+.col-lg-8,
+.col-4,
+.col-6,
+.col-8 {
+
+  /*
+  Inclure à vos colonnes un fond gris clait
+  Inclure à vos colonnes une bordure blanche
+  */
+
+}
+
+.col-lg-12, .col-12 {
+
+  /* Inclure une bordure */
+
+}
